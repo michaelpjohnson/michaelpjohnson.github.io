@@ -44,10 +44,19 @@ nmap, Nessus, nikto/wikto, john, ossec, OWASP ZAP, Kali Linux, Metasploit
 
 ## Experience
 
+### [Hinge][] | New York, NY
+
+#### Senior DevOps Engineer, December 2015 - Present
+
+* 
+
+
 ### [Rakuten Marketing][] | New York, NY
 
-#### Senior DevOps Engineer, September 2014 - Present
+#### Senior DevOps Engineer, September 2014 - Decemeber 2015
+
 #### Senior Systems Administrator, August 2012 - September 2014
+
 ##### Senior DevOps Engineer
 
 * Responsible for Chef servers and 300+ nodes attached to them.
@@ -125,12 +134,13 @@ __Early IT career__
 * [OWASP NYC Chapter Member][]
 
 [LinkedIn Profile]: https://www.linkedin.com/pub/michael-johnson/4/845/84b
-[League of Professional System Administrators]: http://lopsa.org
+[League of Professional System Administrators]: https://lopsa.org
 [Github Profile]: https://github.com/michaelpjohnson
-[Rakuten Marketing]: http://marketing.rakuten.com
-[New York Public Radio]: http://wnyc.org
-[Wagner College]: http://www.wagner.edu
-[Pace University]: http://www.pace.edu
-[New Jersey Institute of Technology]: http://www.njit.edu
+[Rakuten Marketing]: https://marketing.rakuten.com
+[New York Public Radio]: https://wnyc.org
+[Wagner College]: https://www.wagner.edu
+[Pace University]: https://www.pace.edu
+[Hinge]: https://hinge.co
+[New Jersey Institute of Technology]: https://www.njit.edu
 [OWASP NYC Chapter Member]: https://www.owasp.org
 
